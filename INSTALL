@@ -1,0 +1,9 @@
+Building WinnerCoin
+
+See doc/readme-qt.rst for instructions on building WinnerCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WinnerCoin.
+
+See doc/build-*.txt for instructions on building WinnerCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WinnerCoin.
